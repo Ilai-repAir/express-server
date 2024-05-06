@@ -1,0 +1,51 @@
+Co2_enriched_ppm double 
+CO2_depleted double 
+FL_CA_L_min double 
+FL_An_L_min double 
+Volt_mv double 
+Current_ma double 
+T_DEW_An_C double 
+T_line_An_C double 
+T_DEW_Ca_C double 
+T_line_Ca_C double 
+RH_An_percent double 
+RH_Ca_percent double 
+Dp_An_mbar double 
+Dp_Ca_mbar double 
+T_Cell_C double 
+initial_CO2_ppm double 
+Power_W double 
+CO2_removed_ppm double 
+CO2_removal_percent double 
+Capture_rate_Kg_m2_Year double 
+Energy_consumption_MWh_t double 
+e_CO2_ratio double 
+Time_series int PK 
+Time_series_Hour double 
+Cycle text 
+new_Captured_CO2_gr double 
+new_Captured_CO2_Kg_m2 double 
+normalized_Captured_CO2_Kg_m2 double 
+Accumulative_captured_CO2_gr double 
+Accumulative_captured_CO2_Kg_m2 double 
+new_Energy_consumption_Wh double 
+Accumultive_Energy_consumption_Wh double 
+New_e_mol_s double 
+New_e_mol double 
+Accumultive_electrone_mol double 
+new_e_CO2 double 
+accumlated_e_CO2 double 
+trial varchar(30) PK 
+IVI_Time int 
+IVI_Current_A double PK 
+IVI_Volt_V double PK 
+trial_number int 
+trial_run int 
+trial_string_comment text 
+trial_run_2 int 
+trial_run_3 int 
+trial_run_4 int 
+IVI_Resistance_ohm double 
+IVI_Power_w double 
+IVI_Energy_consumption_MWh_t double 
+IVI_e_CO2_ratio double

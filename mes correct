@@ -1,0 +1,14 @@
+// const columnsInTabs: {
+//   mes1: keyof TestData["data"];
+//   mes2?: keyof TestData["data"];
+// }[][] = [
+//   [
+//     { mes1: "Volt_mv" },
+//     { mes1: "CO2_removed_ppm" },
+//     { mes1: "Energy_consumption_MWh_t" },
+//     { mes1: "Power_W" },
+//     { mes1: "CO2_removal_percent" },
+//     { mes1: "e_CO2_ratio" },
+//   ],
+//   [{mes1:"T_Cell_C"},{mes1: "Volt_mv"},{mes1: "e_CO2_ratio"},{mes1:}],
+// ];
